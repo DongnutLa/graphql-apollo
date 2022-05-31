@@ -23,13 +23,13 @@
     "graphql": "^15.6.1",
     "jose": "^4.3.7",
     "nodemon": "^2.0.13",
-    "prompt": "^1.2.0",
+    "prompt": "^1.3.0",
     "ts-node": "^10.2.1"
   },
   "devDependencies": {
     "@types/bcrypt": "^5.0.0",
     "@types/jest": "^27.0.x",
-    "@types/prompt": "^1.1.1",
+    "@types/prompt": "^1.1.2",
     "copyfiles": "^2.4.1",
     "easygraphql-tester": "^6.0.1",
     "graphql-tag": "^2.12.6",
